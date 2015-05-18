@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "slack-hello.js",
+  "sourceRoot": "",
+  "sources": [
+    "slack-hello.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,MAAM,CAAC,OAAP,GAAiB,SAAC,KAAD,GAAA;WACf,KAAK,CAAC,IAAN,CAAW,eAAX,EAA4B,SAAC,GAAD,GAAA;AAC1B,UAAA,QAAA;AAAA,MAAA,QAAA,GAAW,GAAG,CAAC,OAAO,CAAC,IAAI,CAAC,IAA5B,CAAA;aACA,GAAG,CAAC,IAAJ,CAAS,SAAA,GAAY,QAArB,EAF0B;IAAA,CAA5B,EADe;EAAA,CAAjB,CAAA;AAAA"
+}
